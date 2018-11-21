@@ -2,7 +2,7 @@
 * @Author: Zhang Guohua
 * @Date:   2018-11-21 16:20:57
 * @Last Modified by:   zgh
-* @Last Modified time: 2018-11-21 17:53:21
+* @Last Modified time: 2018-11-21 18:59:56
 * @Description: create by zgh
 * @GitHub: Savour Humor
 */
@@ -56,16 +56,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<resources>
-			<resource>
-				<directory>vue</directory>
-				<excludes>
-                    <exclude>
-						*
-					</exclude>
-                </excludes>
-			</resource>
-		</resources>
 	</build>
 
 
