@@ -1,0 +1,18 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+mvn*
+.mvn/
+
+# vue
+vue/node_modules/
+.babelrc
+.editorconfig
+.postcssrc.js
+package-lock.json
+
